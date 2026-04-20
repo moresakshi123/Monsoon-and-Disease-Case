@@ -22,9 +22,9 @@ delhi.csv
 patients_disease_data.csv
 
 
-Open Dashboard
+Dashboard
 
-* Install **Power BI Desktop** (if not already installed).
+* Install **Power BI Desktop**.
 * Open the `.pbix` file from the repo.
 * Refresh the dataset to load the latest data.
 
